@@ -1,0 +1,6 @@
+
+root_path : ../dataset/Train/fundus_image
+dataRate : 0.8
+batchSize : 8
+downSample_W : 512
+downSample_H : 512
