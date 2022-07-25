@@ -4,3 +4,11 @@
 *.png
 *.zip
 *.rar
+*.pth
+*.model
+*.pt
+
+/src/outputFile/*
+/src/testInMessidor/*
+/src/trainInRandomSample/*
+
